@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidStudioL2C</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="inc_counter">0</string>
+    <string name="tv_label">Counter: </string>
+    <string name="btn_Increment">CLICK ME</string>
+
+</resources>

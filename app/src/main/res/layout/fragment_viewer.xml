@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/containerMain"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="a13solutions.androidstudiol2c.ViewerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tvLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_label"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/tvCounter"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="0"
+        android:textAlignment="viewStart"
+        android:textSize="24sp" />
+
+</LinearLayout>
